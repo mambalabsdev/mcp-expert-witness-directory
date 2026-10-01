@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-expert-witness-directory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-expert-witness-directory"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
