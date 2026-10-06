@@ -1,7 +1,7 @@
 {
   "name": "@mambalabsdev/mcp-expert-witness-directory",
   "displayName": "Expert Witness Directory",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "MCP server for the Mamba Labs Expert Witness Directory actor on Apify. Expert witness and medico-legal directory records for the United States and Australia, one deduplicated record per person.",
   "type": "module",
   "bin": {
