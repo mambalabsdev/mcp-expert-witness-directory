@@ -305,7 +305,7 @@ server.registerTool(
       "Find expert witnesses and medico-legal assessors in the United States and Australia. Reads 18 public directories, merges the same person across directories into one record, and maps every source's specialty tags to one taxonomy. Each row carries name, specialty, state or region, country, firm, practice site, phone, listing URL, and the sources that list the person. Coverage is the United States and Australia only: the public actor refuses a UK or Canadian request. published_email is filled only when a source page printed an address; the actor never guesses one. Several sources restrict automated collection or solicitation in their terms; the actor README lists each source's posture, and the use decision is yours. Use it to shortlist experts by specialty and region, or run mode feed on a schedule to see new, changed, and removed listings. Requires an APIFY_TOKEN; charges per expert record, per published email, and per NPPES check, as the README pricing table lists. Writes only to the named key-value store in your own Apify account.",
     annotations: {
       title: "Find Expert Witnesses in the US and Australia",
-      readOnlyHint: true,
+      readOnlyHint: false,
       destructiveHint: false,
       idempotentHint: false,
       openWorldHint: true,
