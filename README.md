@@ -2,6 +2,8 @@
 
 [![MCP Registry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.modelcontextprotocol.io%2Fv0%2Fservers%3Fsearch%3Dcom.mambabuilt%252Fmcp-expert-witness-directory%26limit%3D1&query=%24.servers%5B0%5D._meta%5B%22io.modelcontextprotocol.registry%2Fofficial%22%5D.status&label=mcp%20registry&color=blue)](https://registry.modelcontextprotocol.io/v0/servers?search=com.mambabuilt/mcp-expert-witness-directory&limit=1) [![npm version](https://img.shields.io/npm/v/@mambalabsdev/mcp-expert-witness-directory)](https://www.npmjs.com/package/@mambalabsdev/mcp-expert-witness-directory) [![npm downloads](https://img.shields.io/npm/dm/@mambalabsdev/mcp-expert-witness-directory)](https://www.npmjs.com/package/@mambalabsdev/mcp-expert-witness-directory)
 
+<a href="https://mcprush.com/to/expert-witness-directory-mcp?ref=badge"><img width="380" height="200" src="https://mcprush.com/badge/expert-witness-directory-mcp/card.svg" alt="Expert Witness Directory MCP server" /></a>
+
 MCP server for the Mamba Labs [Expert Witness Directory](https://apify.com/mambalabs/expert-witness-directory) actor on Apify.
 
 Expert witness and medico-legal directory records for the United States and Australia, one deduplicated record per person, with specialties mapped to one taxonomy.
