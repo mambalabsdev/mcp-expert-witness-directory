@@ -4,7 +4,7 @@
 
 <a href="https://mcprush.com/to/expert-witness-directory-mcp?ref=badge"><img width="380" height="200" src="https://mcprush.com/badge/expert-witness-directory-mcp/card.svg" alt="Expert Witness Directory MCP server" /></a>
 
-MCP server for the Mamba Labs [Expert Witness Directory](https://apify.com/mambalabs/expert-witness-directory) actor on Apify.
+MCP server for the Mamba Labs [Expert Witness Finder, US and Australia](https://apify.com/mambalabs/expert-witness-directory) actor on Apify.
 
 Expert witness and medico-legal directory records for the United States and Australia, one deduplicated record per person, with specialties mapped to one taxonomy.
 
